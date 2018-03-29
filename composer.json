@@ -1,0 +1,16 @@
+{
+    "name": "funmi/fms-resource-bundle",
+    "description": "This is a FMS ResourceBundle",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "wenquan",
+            "email": "wq1427646459@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=7.0.0"
+    }
+}
